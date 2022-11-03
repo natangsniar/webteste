@@ -1,0 +1,55 @@
+#segunda{
+position: absolute;
+top: 25px;
+left: 20px;
+width: 250px;
+height: auto;
+}
+
+#terca{
+position: absolute;
+top: 25px;
+left: 270px;
+width: 250px;
+height: auto;
+	}
+#quarta{
+position: absolute;
+top: 25px;
+left: 520px;
+width: 250px;
+height: auto;
+}
+
+#quinta{
+position: absolute;
+top: 25px;
+left: 770px;
+width: 250px;
+height: auto;
+}
+#sexta{
+position: absolute;
+top: 25px;
+left: 1020px;
+width: 250px;
+height: auto;
+}
+
+	.box1{
+width: auto;
+height: auto;
+border: 1px solid black;
+margin: 5px;
+padding: 5px;
+}
+	.box2{
+width: auto;
+height: auto;
+border: 1px solid black;
+margin: 5px;
+padding: 5px;
+}
+p{ 
+font-size: 20px;
+ }
