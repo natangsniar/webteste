@@ -53,3 +53,11 @@ padding: 5px;
 p{ 
 font-size: 20px;
  }
+
+ #vermelho{
+	background-color: red;
+ }
+
+ #azul{
+	background-color: blue;
+ }
